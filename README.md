@@ -9,7 +9,7 @@ An interactive showcase demonstrating cutting-edge CSS features like:
 - Responsive layout techniques
 
 ## 🚀 Live Demo
-🔗 https://your-abhinav20-pixel.github.io/CSS-Shapes---Corners-Showcase/
+🔗 https://abhinav20-pixel.github.io/CSS-Shapes---Corners-Showcase/
 
 ---
 
